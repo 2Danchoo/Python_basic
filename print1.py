@@ -15,6 +15,6 @@ print("두번째 값")                  # end와 같은 줄에 출력
 print("세번째 값")                  # 다음줄에 출력
 
 file = open("test.txt","w")
-print("Hellow Python!", file=file) # 파일로 출력 (text.txt 파일이 생성됨)
+print("Hello Python!", file=file) # 파일로 출력 (text.txt 파일이 생성됨)
 file. close()
 
